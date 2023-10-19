@@ -2,7 +2,11 @@
 <div class="heading">        
                 <h2>Hi there, I am  <a href="https://github.com/HarshNarayan2022/HarshNarayan2022">Harsh Narayan</a> ◕‿◕<hr></h2>
 </div>
-**HarshNarayan2022/HarshNarayan2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,vim" />
+  </a>
+</p>
 
 Here are some ideas to get you started:
 
