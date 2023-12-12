@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning  **LLM's and NLP**
 - 👨‍💻 You can see my portfolio here <a href='https://portfolio-7bwl.onrender.com/' target='blank'>Portfolio</a>
 - 💬 Ask me about **Data Science, ML, DL, NLP, WebDev**
-- 📫 How to reach me: **harshnarayan12@gmail.com**
-- ⚡ Fun fact   **If i am stressed, then you will find me either playing Badminton or Chess.**
+- 📫 How to reach me **harshnarayan12@gmail.com**
+- ⚡ Fun fact **If i am stressed, then you will find me either playing Badminton or Chess.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
