@@ -16,7 +16,6 @@
   <a href="https://www.linkedin.com/in/harsh-narayan-377907264/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh-narayan" height="30"     
     width="40" />
   </a>
-  <a href="https://www.instagram.com/harsh__narayan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harsh__narayan" height="30" width="40" /></a>
   <a href="https://dev.to/harshnarayan2022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harshnarayan2022" height="30" width="40" /></a>
 </p>
 
