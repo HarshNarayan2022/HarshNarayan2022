@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on  <a href='https://github.com/HarshNarayan2022/MENTAL-HEALTH-STATUS-PREDICTION' target='blank'>Automatation part of Mental Health Status Project</a>
 - 🌱 I’m currently learning  **LLM's and NLP**
-- 👨‍💻 You can see my portfolio here <a href='https://portfolio-7bwl.onrender.com/' target='blank'>Portfolio</a>
+- 👨‍💻 You can see my portfolio here <a href='https://portfolio-yen6.onrender.com/' target='blank'>Portfolio</a>
 - 💬 Ask me about **Data Science, ML, DL, NLP, WebDev**
 - 📫 How to reach me **harshnarayan12@gmail.com**
 - ⚡ Fun fact **If i am stressed, then you will find me either playing Badminton or Chess.**
